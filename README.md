@@ -5,4 +5,4 @@ To install a bookmarklet you can just copy its code into a new bookmark in the u
 
 [DARKNESS](DARKNESS) - Bookmarklet that inverts the colors of most items on the webpage. Works on most webpages.
 
-[extract_emails](extract_emails) - Extracts all emails from the webpage and prints them to an alert box
+[Extract emails](extract_emails) - Extracts all emails from the webpage and prints them to an alert box
