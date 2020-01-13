@@ -11,7 +11,7 @@ To install a bookmarklet you can just copy its code into a new bookmark in the u
 
 [FBExpand](FBExpand) - Expand all comment sections on facebook
 
-[Notes](Notes) - Opens a in browser notepad
+[Notes](Notes) - Opens an in browser notepad
 
 [YTReverse](YTReverse) - Reverse searches the youtube video on the internet
 
