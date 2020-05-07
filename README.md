@@ -24,3 +24,5 @@ To install a bookmarklet you can just copy its code into a new bookmark in the u
 [wayback](wayback) - Opens the current page in the wayback machine
 
 Get all images - This bookmarklet extracts all images that contain external links on the current page and displays them in a new window.
+
+Check if twitter account is a troll - Checks if the twitter profile is legitimate or if it is a troll 
