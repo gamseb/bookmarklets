@@ -1,0 +1,14 @@
+javascript:(function () {
+  if (window.location.hostname !== "twitter.com") return;
+
+  const url = window.location.href;
+  const handleRE = /https:\/\/twitter.com\/[^/?]+/;
+
+  if (!handleRE.test(url)) return;
+
+  const handle = url.match(handleRE)[0];
+
+  const botsentinelWindow = window.open();
+  botsentinelWindow.opener = null;
+  botsentinelWindow.location = `https://botsentinel.com/analyze/embedded?handle=${encodeURIComponent(handle)}`;
+})();
