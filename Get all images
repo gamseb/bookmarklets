@@ -1,0 +1,1 @@
+javascript:Ai7Mg6P='';for%20(i7M1bQz=0;i7M1bQz%3Cdocument.images.length;i7M1bQz++){Ai7Mg6P+='%3Cimg%20src='+document.images[i7M1bQz].src+'%3E%3Cbr%3E'};if(Ai7Mg6P!=''){document.write('%3Ccenter%3E'+Ai7Mg6P+'%3C/center%3E');void(document.close())}else{alert('No%20images!')}
