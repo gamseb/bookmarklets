@@ -22,3 +22,5 @@ To install a bookmarklet you can just copy its code into a new bookmark in the u
 [site](site) - Opens google with the site:<current site> search query
 
 [wayback](wayback) - Opens the current page in the wayback machine
+
+Get all images - This bookmarklet extracts all images that contain external links on the current page and displays them in a new window.
