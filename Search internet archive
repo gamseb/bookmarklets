@@ -1,0 +1,1 @@
+javascript:var%20d=document,w=window,e=w.getSelection,k=d.getSelection,x=d.selection,s=(e?e():(k)?k():(x?x.createRange().text:0));if(!s.length)%7Bs=prompt('Enter%20a%20website%20below%20to%20search:','');%7Dif(s)%7Bdocument.location.href='https://web-beta.archive.org/web/*/'+escape(s);%7Delse%7Bvoid(0);%7D
