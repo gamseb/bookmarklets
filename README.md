@@ -26,3 +26,5 @@ To install a bookmarklet you can just copy its code into a new bookmark in the u
 Get all images - This bookmarklet extracts all images that contain external links on the current page and displays them in a new window.
 
 Check if twitter account is a troll - Checks if the twitter profile is legitimate or if it is a troll 
+
+[View Selection](View Selection) -  	This bookmarklet copies any selected text into a new window. N.B. It preserves links, paragraphs and images.
