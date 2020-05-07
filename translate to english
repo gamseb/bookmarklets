@@ -1,0 +1,1 @@
+javascript:q=location.href;void(location.href='http://translate.google.com/translate?u='+q);
